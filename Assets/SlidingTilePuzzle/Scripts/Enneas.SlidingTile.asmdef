@@ -1,0 +1,16 @@
+{
+    "name": "Enneas.SlidingTile",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a8feff5e5667514b8a3ffbf7abc7fea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
